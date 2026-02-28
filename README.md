@@ -45,7 +45,7 @@ Building. Learning. Scaling.
 ## 🟢 CODE DISTRIBUTION
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsakthivel-dev&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsakthivel-dev&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&cache_seconds=1800" />
 </p>
 
 ---
